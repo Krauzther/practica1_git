@@ -1,0 +1,10 @@
+body {
+    font-family: "Arial Narrow";
+    font-size: 1.2em;
+    background-color: dimgray;
+    color: white;
+}
+
+.contenedor_principal {
+    width: 50%;
+}
