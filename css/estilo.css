@@ -7,4 +7,7 @@ body {
 
 .contenedor_principal {
     width: 50%;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: 0 auto;
 }
